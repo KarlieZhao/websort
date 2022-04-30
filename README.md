@@ -5,6 +5,7 @@ Hiding some unimportant words while you're reading to push/help you read faster.
 <p align="center">
 <img src="./screenshot.png" width="80%">
 </p>
+
 ## Run on Chrome
 <ul>
 <li>Download this repo or git clone https://github.com/KarlieZhao/websort 

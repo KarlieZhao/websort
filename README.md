@@ -14,3 +14,5 @@ Hiding some unimportant words while you're reading to push/help you read faster.
 <li>You should see the icon of <i>Read! Read Faster</i> appearing on the top bar.
 <li>To run the extension, open a webpage and click on the icon.
 </ul>
+
+## [Demo Video](https://youtu.be/23-698BlDYM)

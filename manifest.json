@@ -1,0 +1,23 @@
+{
+    "name": "Read! Read Faster!",
+    "action": {},
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Hiding some unimportant words while you're reading to push/help you read faster.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["rita-micro.js", "contentScript.js"]
+    }],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "./icon.png",
+        "48": "./icon.png",
+        "128": "./icon.png"
+    }
+}

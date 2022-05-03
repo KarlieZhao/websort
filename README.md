@@ -1,5 +1,5 @@
 # Read! Read Faster
-Hiding some unimportant words while you're reading to push/help you read faster.
+Hiding some unimportant words while you're reading to help you read faster.
 
 
 <p align="center">

@@ -15,4 +15,9 @@ Hiding some unimportant words while you're reading to help you read faster.
 <li>To run the extension, open a webpage and click on the icon.
 </ul>
 
+### TODO:
+<ul>
+  <li>UI: add a popup page when icon clicked.
+  <li>Shoud handle HTML tags correctly.
+</ul>
 ## [Demo Video](https://youtu.be/23-698BlDYM)

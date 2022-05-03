@@ -20,4 +20,5 @@ Hiding some unimportant words while you're reading to help you read faster.
   <li>UI: add a popup page when icon clicked.
   <li>Shoud handle HTML tags correctly.
 </ul>
+
 ## [Demo Video](https://youtu.be/23-698BlDYM)
